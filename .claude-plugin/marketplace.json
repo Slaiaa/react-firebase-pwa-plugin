@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "react-firebase-pwa-plugin",
+  "description": "Agents, skills, and rules for React + TypeScript + Firebase + PWA projects",
+  "owner": {
+    "name": "Christian Skaiaa",
+    "email": "christian@skaiaa.org"
+  },
+  "plugins": [
+    {
+      "name": "react-firebase-pwa",
+      "description": "Agents, skills, and rules for React + TypeScript + Firebase + PWA projects. Includes react-architect, firebase-specialist, pwa-specialist, storybook-expert, i18n, and new-component.",
+      "category": "frameworks",
+      "source": "./"
+    }
+  ]
+}
