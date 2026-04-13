@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+
+  /* Variant styles using data attributes */
+  &[data-variant="primary"] {
+    /* Primary variant styles */
+  }
+
+  &[data-variant="secondary"] {
+    /* Secondary variant styles */
+  }
+
+  /* Child element styles using semantic selectors */
+  > [role="heading"] {
+    /* Heading styles */
+  }
+
+  > [data-component-name="content"] {
+    /* Content area styles */
+  }
+}
+
+/* Responsive styles - single breakpoint at 768px */
+@media only screen and (max-width: 768px) {
+  .container {
+    /* Mobile adjustments */
+  }
+}

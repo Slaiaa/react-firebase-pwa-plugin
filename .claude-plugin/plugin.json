@@ -1,0 +1,13 @@
+{
+  "name": "react-firebase-pwa",
+  "description": "Agents, skills, and rules for React + TypeScript + Firebase + PWA projects. Includes react-architect, firebase-specialist, pwa-specialist, storybook-expert, i18n, and new-component.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christian Skaiaa",
+    "email": "christian@skaiaa.org"
+  },
+  "repository": "https://github.com/Slaiaa/react-firebase-pwa-plugin",
+  "license": "MIT",
+  "keywords": ["react", "firebase", "pwa", "typescript", "storybook", "i18n"],
+  "category": "frameworks"
+}
